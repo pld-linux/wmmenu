@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Window Managers/Tools
 Source0:	http://www.fcoutant.freesurf.fr/download/%{name}-%{version}.tar.gz
+# Source0-md5:	0cc8970ff54182a08fe848d65546f70f
 URL:		http://www.fcoutant.freesurf.fr/wmmenu.html
 BuildRequires:	XFree86-devel
 BuildRequires:	gdk-pixbuf-devel
