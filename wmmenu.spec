@@ -1,7 +1,7 @@
 Summary:	wmmenu - popup dock menus for WindowMaker
 Summary(pl):	wmmenu - chowane menu dla WindowMakera
 Name:		wmmenu
-Version:	0.8
+Version:	0.9
 Release:	1
 License:	GPL
 Group:		X11/Window Managers/Tools
