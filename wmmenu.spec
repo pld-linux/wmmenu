@@ -50,6 +50,6 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %doc README TODO
 %config %{_sysconfdir}
-%{_mandir}/man1/wmmenu.1
+%{_mandir}/man1/wmmenu.1*
 %attr(755,root,root) %{_bindir}/%{name}
 %attr(755,root,root) %{_bindir}/extract_icon_back
