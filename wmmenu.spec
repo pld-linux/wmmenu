@@ -12,7 +12,6 @@ BuildRequires:	gdk-pixbuf-devel
 BuildRequires:	libdockapp-devel >= 0.4
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define 	_prefix		/usr/X11R6
 %define		_sysconfdir	/etc/X11/Apps/wmmenu
 
 %description
