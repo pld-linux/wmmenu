@@ -5,8 +5,6 @@ Version:	0.9
 Release:	1
 License:	GPL
 Group:		X11/Window Managers/Tools
-Group(de):	X11/Fenstermanager/Werkzeuge
-Group(pl):	X11/Zarz±dcy Okien/Narzêdzia
 Source0:	http://www.fcoutant.freesurf.fr/download/%{name}-%{version}.tar.gz
 URL:		http://www.fcoutant.freesurf.fr/wmmenu.html
 BuildRequires:	XFree86-devel
