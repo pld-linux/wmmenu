@@ -1,5 +1,5 @@
 Summary:	wmmenu - popup dock menus for WindowMaker
-Summary(pl.UTF-8):   wmmenu - chowane menu dla WindowMakera
+Summary(pl.UTF-8):	wmmenu - chowane menu dla WindowMakera
 Name:		wmmenu
 Version:	1.2
 Release:	1
