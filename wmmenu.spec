@@ -1,5 +1,5 @@
 Summary:	wmmenu - popup dock menus for WindowMaker
-Summary(pl):	wmmenu - chowane menu dla WindowMakera
+Summary(pl.UTF-8):   wmmenu - chowane menu dla WindowMakera
 Name:		wmmenu
 Version:	1.2
 Release:	1
@@ -19,9 +19,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Popup menu of icons for WindowMaker like in AfterStep, as a dockable
 application.
 
-%description -l pl
-Chowane menu z≥oøone z ikon dla WindowMakera, podobne do tego, ktÛre
-znaleºÊ moøna w AfterStepie.
+%description -l pl.UTF-8
+Chowane menu z≈Ço≈ºone z ikon dla WindowMakera, podobne do tego, kt√≥re
+znale≈∫ƒá mo≈ºna w AfterStepie.
 
 %prep
 %setup -q -n wmmenu
